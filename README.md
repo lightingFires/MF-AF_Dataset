@@ -1,2 +1,2 @@
-# MF-AF_Dataset
-The paper of MF-AF:A Multi-Feature Adaptive Fusion Method for Person Independent in RFID Indoor Localization 's dataset
+# CMF-AF_Dataset
+The paper of CMF-AF: Cross-modal feature adaptive fusion network for person-independent RFID indoor fingerprint localization 's dataset
