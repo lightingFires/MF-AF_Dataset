@@ -1,2 +1,2 @@
-# CMF-AF_Dataset
-The paper of CMF-AF: Cross-modal feature adaptive fusion framework for person-independent RFID indoor fingerprint localization 's dataset
+# FAF-HD_Dataset
+The paper of FAF-HD: A Feature Adaptive Fusion Framework for Heterogeneous Data toward Person-Independent RFID Indoor Fingerprint Localization 's dataset
